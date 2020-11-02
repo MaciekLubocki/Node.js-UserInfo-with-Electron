@@ -8,7 +8,7 @@
     "jimp": "0.6.4"
   },
   "scripts": {
-    "start": "electron ./app/index.html"
+    "start": "electron main.js"
   }
 }
 
